@@ -1,0 +1,2 @@
+worldname= WellPlay
+time(min)= 30
